@@ -1,0 +1,6 @@
+{
+  "name": "Portal Método Corpo Violão 21D",
+  "description": "Portal mobile elegante e acolhedor para o Método Corpo Violão 21D, reunindo o programa principal de treinos guiados, cardápios e bônus educativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
